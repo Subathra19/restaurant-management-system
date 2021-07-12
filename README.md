@@ -12,11 +12,9 @@
 * Run restaurant.py
 
 ## Sample Screen
-* Number of matches in every season
-  * [Code](https://github.com/Subathra19/ipl/blob/main/code/web_app_1.py) 
-  <p align="center">
-  <img width="600" height="400" src="https://github.com/Subathra19/ipl/blob/main/plots/matches-in-every-season.png">
-  </p>
+<p align="center">
+  <img width="800" height="500" src="https://github.com/Subathra19/restaurant-management-system/blob/main/sample_screen.PNG">
+</p>
 
     
 ## References
