@@ -8,7 +8,6 @@
 
 ## How to Run app:
 * Clone the repository to your local machine.
-* Install the above given package.
 * Run restaurant.py
 
 ## Sample Screen
