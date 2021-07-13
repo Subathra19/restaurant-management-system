@@ -19,6 +19,7 @@ window.geometry("1350x750+0+0")
 # Title
 window.title("Restaurant Billing System")
 window.configure(background=bg_color)
+window.resizable(False, False)
 
 
 # Divide the screen into three frames
